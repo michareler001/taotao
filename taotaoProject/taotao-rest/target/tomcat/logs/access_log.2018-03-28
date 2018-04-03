@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [28/Mar/2018:17:24:09 +0800] "GET /rest/itemcat/list?callback=myfunction HTTP/1.1" 200 42471 http-bio-8081-exec-1 728
+0:0:0:0:0:0:0:1 - - [28/Mar/2018:17:27:04 +0800] "GET /rest/itemcat/list?callback=category.getDataService HTTP/1.1" 200 42484 http-bio-8081-exec-6 283
+0:0:0:0:0:0:0:1 - - [28/Mar/2018:17:28:04 +0800] "GET /rest/itemcat/list?callback=category.getDataService HTTP/1.1" 200 42484 http-bio-8081-exec-7 255
+0:0:0:0:0:0:0:1 - - [28/Mar/2018:17:29:36 +0800] "GET /rest/itemcat/list?callback=category.getDataService HTTP/1.1" 200 30926 http-bio-8081-exec-9 212
